@@ -6,7 +6,7 @@ components:
     change_theme: 切换主题
 pages:
   index:
-    title: nuxt 3[]awesome[]starter
+    title: TidalForce[]Official Web[]TEST!
   404:
     title: 找不到该页面
   blank:
@@ -14,6 +14,10 @@ pages:
     title: 空白页
     description: 这是一个空白页
     just_blank_page_with_title: 只是带有标题的空白页
+  about:
+    nav: 关于我们
+    title: 关于我们
+    description: 这是一个介绍我们的界面
   post:
     nav: 文章
     title: 文章

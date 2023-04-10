@@ -87,8 +87,10 @@ const toggleOptions = (show?: boolean) => {
             >
               <span class="sr-only">home</span>
               <span class="flex items-center">
-                <IconSimpleIcons:nuxtdotjs
-                  class="inline-block mr-2 text-lg text-primary-500"
+                <img
+                  class="h-10 mr-4 inline-block"
+                  src="http://rsuwsin79.hd-bkt.clouddn.com/TidalForce-Logo-Ver0.1.svg?e=1681145412&token=4EyPgxSAIIMD4j_TxW0Dh0zH4iHu-R-UJnnCpxo4:nvoqHxmjMhqvCTIeeSvGFdC6kTw="
+                  alt="LOGO"
                 />
                 {{ app.name }}
               </span>

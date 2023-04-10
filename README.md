@@ -74,6 +74,7 @@ _This template was built to make it easier to create web projects using Nuxt 3. 
 - [Nuxt 3 Awesome Starter](#nuxt-3-awesome-starter)
   - [Features](#features)
   - [To Do](#to-do)
+  - [Preview New Major Update (Soon!)](#preview-new-major-update-soon)
   - [Preview](#preview)
   - [Table of Contents](#table-of-contents)
   - [Quick Start](#quick-start)

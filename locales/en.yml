@@ -6,7 +6,7 @@ components:
     change_theme: change theme
 pages:
   index:
-    title: nuxt 3[]awesome[]starter
+    title: TidalForce[]Official Web[]TEST!
   404:
     title: page not found
   blank:
@@ -18,6 +18,10 @@ pages:
     nav: post
     title: post
     description: this is a post page
+  about:
+    nav: About us
+    title: About us
+    description: This is a page that introduce us to you.
   test:
     nav: test
     title: testing

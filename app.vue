@@ -9,16 +9,22 @@ const app = useAppConfig() as AppConfigInput
 
 useHead({
   title: app.name,
-  titleTemplate: '%s - Nuxt 3 Awesome Starter',
+  titleTemplate: '%s - TidalForce',
   meta: [
     { name: 'viewport', content: 'width=device-width, initial-scale=1' },
     {
       hid: 'description',
       name: 'description',
-      content: 'Nuxt 3 Awesome Starter',
+      content: 'TidalForce-title-content',
     },
   ],
-  link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+  link: [
+    {
+      rel: 'icon',
+      type: 'image/x-icon',
+      href: 'http://rsuwsin79.hd-bkt.clouddn.com/TidalForce-Logo-Ver0.1.svg?e=1681145412&token=4EyPgxSAIIMD4j_TxW0Dh0zH4iHu-R-UJnnCpxo4:nvoqHxmjMhqvCTIeeSvGFdC6kTw=',
+    },
+  ],
 })
 </script>
 
