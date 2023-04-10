@@ -5,7 +5,7 @@
         <div class="flex items-center justify-center">
           <img
             class="w-6 h-6 rounded-full"
-            src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+            src="https://s2.loli.net/2023/04/10/oRUnejbzpQSE7Ki.png"
             alt="Avatar of Jonathan Reinink"
           />
           <span class="ml-2 text-sm font-semibold">Alfian</span>
@@ -18,7 +18,7 @@
           <ThemeSwitcher />
           <Anchor
             class="hover:no-underline hover:text-slate-900 hover:dark:text-white text-lg flex self-center items-center"
-            href="https://github.com/viandwi24/nuxt3-awesome-starter"
+            href="https://github.com/LWanTao"
             title="Github"
           >
             <IconMdi:github-face />
@@ -46,7 +46,7 @@
         <Button
           type="secondary"
           title="Github"
-          href="https://github.com/viandwi24/nuxt3-awesome-starter"
+          href="https://github.com/LWanTao"
         >
           <IconMdi:github-face />
           <span class="ml-1">Github</span>
