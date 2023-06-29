@@ -1,9 +1,11 @@
 # It's an official website of TidalForce
 
+> **📣The site is still under preliminary construction.**
+
 ## Abstract
 
-> * Built with [Nuxt3](https://nuxt.com/).
-> * (To be completed...)
+* Built with [Nuxt3](https://nuxt.com/).
+* (To be completed...)
 
 ## Credits
 

@@ -68,7 +68,7 @@ pages:
       nav: 主页
       title: 主页
 banners:
-  welcome: 你好, 欢迎来到 %{app_name}!
+  welcome: 你好, 欢迎来到 %{app_name}! - 该站点仍在初步建设中。
 others:
   learn_more: 了解更多
   copy: 复制
